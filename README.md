@@ -45,9 +45,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 <a href='https://github.com/softcodeur/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=softcodeur&show_icons=true&theme=radical)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softcodeur&layout=compact)](https://github.com/softcodeur/github-readme-stats)
 
 </a>
 
