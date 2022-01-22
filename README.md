@@ -13,15 +13,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **payment-system-app**
-- 🤝 &nbsp; I’m looking to collaborate on [problems-solving-projects](https://github.com/softcodeur/problems-solving-projects)
+- 🤝 &nbsp; I’m looking to collaborate on [problems-solving-projects](https://github.com/softcodeur)
 - 🌱 &nbsp; I’m currently learning Devops/Cloud; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/softcodeur?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/soumana-abdou-amadou/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1QaDAkaEmPimMifQvn2EiI--90JbfEepm/view?usp=sharing)
+- 📚 &nbsp; When I am free, I listen audio books about Self-Improvement and Technology using Scribd.
 <br>
 
 ### 🔨 Languages and Tools:
